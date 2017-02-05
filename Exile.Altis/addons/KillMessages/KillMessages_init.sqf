@@ -1,0 +1,1 @@
+missionNamespace setVariable ["ExileClient_KillMessages_network_KillMessages",(compileFinal preprocessFileLineNumbers "addons\KillMessages\ExileClient_KillMessages_network_KillMessages.sqf")];
