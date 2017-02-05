@@ -1,7 +1,7 @@
-author = "www.bitcoingamerz.com";
-onLoadName = "Bitcoin Gamerz";
+author = "changeme";
+onLoadName = "changeme";
 onLoadMission= "www.exilemod.com";
-loadScreen = "logo.paa";
+loadScreen = "yourlogo.paa";
 disableChannels[] = {0, 2, 6};
 OnLoadIntro = "";
 OnLoadIntroTime = false;
